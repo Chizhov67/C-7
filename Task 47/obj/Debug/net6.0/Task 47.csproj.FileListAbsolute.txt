@@ -1,0 +1,15 @@
+C:\Users\chizh\OneDrive\Desktop\ДЗ7\C-7\Task 47\bin\Debug\net6.0\Task 47.exe
+C:\Users\chizh\OneDrive\Desktop\ДЗ7\C-7\Task 47\bin\Debug\net6.0\Task 47.deps.json
+C:\Users\chizh\OneDrive\Desktop\ДЗ7\C-7\Task 47\bin\Debug\net6.0\Task 47.runtimeconfig.json
+C:\Users\chizh\OneDrive\Desktop\ДЗ7\C-7\Task 47\bin\Debug\net6.0\Task 47.dll
+C:\Users\chizh\OneDrive\Desktop\ДЗ7\C-7\Task 47\bin\Debug\net6.0\Task 47.pdb
+C:\Users\chizh\OneDrive\Desktop\ДЗ7\C-7\Task 47\obj\Debug\net6.0\Task 47.csproj.AssemblyReference.cache
+C:\Users\chizh\OneDrive\Desktop\ДЗ7\C-7\Task 47\obj\Debug\net6.0\Task 47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chizh\OneDrive\Desktop\ДЗ7\C-7\Task 47\obj\Debug\net6.0\Task 47.AssemblyInfoInputs.cache
+C:\Users\chizh\OneDrive\Desktop\ДЗ7\C-7\Task 47\obj\Debug\net6.0\Task 47.AssemblyInfo.cs
+C:\Users\chizh\OneDrive\Desktop\ДЗ7\C-7\Task 47\obj\Debug\net6.0\Task 47.csproj.CoreCompileInputs.cache
+C:\Users\chizh\OneDrive\Desktop\ДЗ7\C-7\Task 47\obj\Debug\net6.0\Task 47.dll
+C:\Users\chizh\OneDrive\Desktop\ДЗ7\C-7\Task 47\obj\Debug\net6.0\refint\Task 47.dll
+C:\Users\chizh\OneDrive\Desktop\ДЗ7\C-7\Task 47\obj\Debug\net6.0\Task 47.pdb
+C:\Users\chizh\OneDrive\Desktop\ДЗ7\C-7\Task 47\obj\Debug\net6.0\Task 47.genruntimeconfig.cache
+C:\Users\chizh\OneDrive\Desktop\ДЗ7\C-7\Task 47\obj\Debug\net6.0\ref\Task 47.dll
